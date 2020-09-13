@@ -6,3 +6,7 @@
 ==>  HEAP SORT
 
 ==>  BUBBLE SORT
+
+==>  QUICK SORT
+
+==>  COUNTING SORT
