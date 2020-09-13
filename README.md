@@ -10,3 +10,5 @@
 ==>  QUICK SORT
 
 ==>  COUNTING SORT
+
+==>  SELECTION SORT
